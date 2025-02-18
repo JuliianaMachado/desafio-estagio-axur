@@ -1,2 +1,1 @@
-# desafio-estagio-axur
-Desafio de estágio Axur 
+EASTER_EGG_URLS
